@@ -1,6 +1,6 @@
 # Forecast-LSTM
 
-![alt img](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwifu5may4LjAhUMtRoKHWuZAMMQjRx6BAgBEAU&url=https%3A%2F%2Fwww.kaggle.com%2Fc%2Fcompetitive-data-science-predict-future-sales&psig=AOvVaw270p2eQNv_VcIe61yzIFBx&ust=1561481816882665)
+![alt img](https://storage.googleapis.com/kaggle-competitions/kaggle/8587/logos/thumb76_76.png?t=2018-02-17-15-25-52)
 
 Forecast sales with LSTM
 
