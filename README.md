@@ -1,6 +1,8 @@
 # Forecast-LSTM
 
-![logo](./thumb76_76 (2).png)
+![](https://storage.googleapis.com/kaggle-competitions/kaggle/8587/logos/thumb76_76.png)
+
+
 Forecast sales with LSTM
 
 Data on Kaggle, link below:
