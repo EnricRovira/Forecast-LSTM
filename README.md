@@ -2,7 +2,7 @@
 
 Forecast sales with LSTM
 
-![ref](./descarga_ini.png)
+![ref](./forecast_ini.png)
 
 Data on Kaggle, link below:
 
